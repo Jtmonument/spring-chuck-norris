@@ -6,3 +6,4 @@
 ### Dependencies Included
 - Spring Web
 - Thymeleaf
+- Chuck Norris for Actuator
